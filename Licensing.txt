@@ -1,0 +1,14 @@
+﻿Licensing.txt
+CavemanAI | SafeCave Monitoring Suite Project Status: Prototype - Dynamic Advanced Research Concepts (D-ARCai)
+This application utilizes the following open-source components:
+1. PySide6 (Qt for Python)
+   * License: GNU Lesser General Public License (LGPL) v3
+   * Purpose: GUI framework and image processing.
+2. Requests: HTTP for Humans
+   * License: Apache License 2.0
+   * Purpose: Managing MJPEG stream sessions and data acquisition.
+3. Python 3.12
+   * License: Python Software Foundation (PSF) License
+   * Purpose: Primary application backbone.
+TERMS OF USE: SafeCave is provided "as-is" for the purpose of personal hardware repurposing and AI development. The "CavemanAI" and "D-ARCai" branding, including the SafeCoffee and Stone/Mint color palettes, are part of a uniform brand identity for current and future applications.
+Users are encouraged to use this software to bring intelligent application utility to older technology while maintaining the ease-of-use philosophy central to the CavemanAI brand.
